@@ -1,0 +1,99 @@
+Results for 10 lands in deck
+	0 land hands -- Bo1: 2.339 %	-- Bo3: 11.01 %
+	1 land hands -- Bo1: 31.928 %	-- Bo3: 31.844 %
+	2 land hands -- Bo1: 56.565 %	-- Bo3: 34.163 %
+	3 land hands -- Bo1: 8.912 %	-- Bo3: 17.72 %
+	4 land hands -- Bo1: 0.255 %	-- Bo3: 4.604 %
+	5 land hands -- Bo1: 0.001 %	-- Bo3: 0.622 %
+	6 land hands -- Bo1: 0.0 %	-- Bo3: 0.037 %
+	7 land hands -- Bo1: 0.0 %	-- Bo3: 0.0 %
+Results for 11 lands in deck
+	0 land hands -- Bo1: 1.996 %	-- Bo3: 8.538 %
+	1 land hands -- Bo1: 28.458 %	-- Bo3: 27.784 %
+	2 land hands -- Bo1: 57.886 %	-- Bo3: 35.059 %
+	3 land hands -- Bo1: 11.106 %	-- Bo3: 20.923 %
+	4 land hands -- Bo1: 0.54 %	-- Bo3: 6.581 %
+	5 land hands -- Bo1: 0.014 %	-- Bo3: 1.039 %
+	6 land hands -- Bo1: 0.0 %	-- Bo3: 0.075 %
+	7 land hands -- Bo1: 0.0 %	-- Bo3: 0.001 %
+Results for 12 lands in deck
+	0 land hands -- Bo1: 0.618 %	-- Bo3: 6.33 %
+	1 land hands -- Bo1: 14.072 %	-- Bo3: 24.392 %
+	2 land hands -- Bo1: 57.484 %	-- Bo3: 34.8 %
+	3 land hands -- Bo1: 25.603 %	-- Bo3: 23.93 %
+	4 land hands -- Bo1: 2.199 %	-- Bo3: 8.757 %
+	5 land hands -- Bo1: 0.024 %	-- Bo3: 1.659 %
+	6 land hands -- Bo1: 0.0 %	-- Bo3: 0.125 %
+	7 land hands -- Bo1: 0.0 %	-- Bo3: 0.007 %
+Results for 13 lands in deck
+	0 land hands -- Bo1: 0.482 %	-- Bo3: 4.717 %
+	1 land hands -- Bo1: 12.034 %	-- Bo3: 20.641 %
+	2 land hands -- Bo1: 56.126 %	-- Bo3: 33.944 %
+	3 land hands -- Bo1: 28.364 %	-- Bo3: 26.782 %
+	4 land hands -- Bo1: 2.94 %	-- Bo3: 11.207 %
+	5 land hands -- Bo1: 0.054 %	-- Bo3: 2.451 %
+	6 land hands -- Bo1: 0.0 %	-- Bo3: 0.239 %
+	7 land hands -- Bo1: 0.0 %	-- Bo3: 0.019 %
+Results for 14 lands in deck
+	0 land hands -- Bo1: 0.364 %	-- Bo3: 3.508 %
+	1 land hands -- Bo1: 10.329 %	-- Bo3: 17.24 %
+	2 land hands -- Bo1: 53.951 %	-- Bo3: 32.283 %
+	3 land hands -- Bo1: 31.199 %	-- Bo3: 29.052 %
+	4 land hands -- Bo1: 3.996 %	-- Bo3: 13.936 %
+	5 land hands -- Bo1: 0.16 %	-- Bo3: 3.551 %
+	6 land hands -- Bo1: 0.001 %	-- Bo3: 0.408 %
+	7 land hands -- Bo1: 0.0 %	-- Bo3: 0.022 %
+Results for 15 lands in deck
+	0 land hands -- Bo1: 0.101 %	-- Bo3: 2.579 %
+	1 land hands -- Bo1: 4.378 %	-- Bo3: 14.196 %
+	2 land hands -- Bo1: 32.462 %	-- Bo3: 30.086 %
+	3 land hands -- Bo1: 52.148 %	-- Bo3: 30.709 %
+	4 land hands -- Bo1: 10.393 %	-- Bo3: 16.873 %
+	5 land hands -- Bo1: 0.516 %	-- Bo3: 4.872 %
+	6 land hands -- Bo1: 0.002 %	-- Bo3: 0.647 %
+	7 land hands -- Bo1: 0.0 %	-- Bo3: 0.038 %
+Results for 16 lands in deck
+	0 land hands -- Bo1: 0.079 %	-- Bo3: 1.817 %
+	1 land hands -- Bo1: 3.502 %	-- Bo3: 11.664 %
+	2 land hands -- Bo1: 29.669 %	-- Bo3: 27.236 %
+	3 land hands -- Bo1: 53.562 %	-- Bo3: 31.852 %
+	4 land hands -- Bo1: 12.398 %	-- Bo3: 19.912 %
+	5 land hands -- Bo1: 0.777 %	-- Bo3: 6.409 %
+	6 land hands -- Bo1: 0.013 %	-- Bo3: 1.037 %
+	7 land hands -- Bo1: 0.0 %	-- Bo3: 0.073 %
+Results for 17 lands in deck
+	0 land hands -- Bo1: 0.065 %	-- Bo3: 1.303 %
+	1 land hands -- Bo1: 2.924 %	-- Bo3: 9.27 %
+	2 land hands -- Bo1: 26.983 %	-- Bo3: 24.233 %
+	3 land hands -- Bo1: 54.294 %	-- Bo3: 32.478 %
+	4 land hands -- Bo1: 14.497 %	-- Bo3: 22.66 %
+	5 land hands -- Bo1: 1.216 %	-- Bo3: 8.406 %
+	6 land hands -- Bo1: 0.021 %	-- Bo3: 1.558 %
+	7 land hands -- Bo1: 0.0 %	-- Bo3: 0.092 %
+Results for 18 lands in deck
+	0 land hands -- Bo1: 0.008 %	-- Bo3: 0.903 %
+	1 land hands -- Bo1: 0.982 %	-- Bo3: 7.208 %
+	2 land hands -- Bo1: 13.838 %	-- Bo3: 21.976 %
+	3 land hands -- Bo1: 53.708 %	-- Bo3: 31.83 %
+	4 land hands -- Bo1: 27.973 %	-- Bo3: 25.178 %
+	5 land hands -- Bo1: 3.388 %	-- Bo3: 10.599 %
+	6 land hands -- Bo1: 0.103 %	-- Bo3: 2.136 %
+	7 land hands -- Bo1: 0.0 %	-- Bo3: 0.17 %
+Results for 19 lands in deck
+	0 land hands -- Bo1: 0.013 %	-- Bo3: 0.602 %
+	1 land hands -- Bo1: 0.766 %	-- Bo3: 5.678 %
+	2 land hands -- Bo1: 11.842 %	-- Bo3: 18.572 %
+	3 land hands -- Bo1: 52.698 %	-- Bo3: 30.982 %
+	4 land hands -- Bo1: 30.388 %	-- Bo3: 27.791 %
+	5 land hands -- Bo1: 4.135 %	-- Bo3: 13.072 %
+	6 land hands -- Bo1: 0.156 %	-- Bo3: 3.02 %
+	7 land hands -- Bo1: 0.002 %	-- Bo3: 0.283 %
+Results for 20 lands in deck
+	0 land hands -- Bo1: 0.003 %	-- Bo3: 0.403 %
+	1 land hands -- Bo1: 0.236 %	-- Bo3: 4.08 %
+	2 land hands -- Bo1: 7.766 %	-- Bo3: 15.709 %
+	3 land hands -- Bo1: 33.001 %	-- Bo3: 29.621 %
+	4 land hands -- Bo1: 50.54 %	-- Bo3: 29.497 %
+	5 land hands -- Bo1: 7.871 %	-- Bo3: 15.974 %
+	6 land hands -- Bo1: 0.58 %	-- Bo3: 4.294 %
+	7 land hands -- Bo1: 0.003 %	-- Bo3: 0.422 %
